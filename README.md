@@ -1,2 +1,5 @@
 # mac_id_report_generator
-This code is used to generate reports for unique MAC ID counts by day. Data is from PCW's Linode server.
+
+This program uses Jupyter Notebooks in order to determine unique MAC ID's on the network by the day.
+It is important to note that you must download the necessary .json files from the Linode and have them available locally.
+Follow comments/directions written in the code to adjust for necessary time frames.
